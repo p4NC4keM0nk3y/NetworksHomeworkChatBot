@@ -3,7 +3,7 @@ This application is a server used by those who wish to communicate directly to o
 
 ## Installation
 
-Clone this [repo](doc:https://github.com/p4NC4keM0nk3y/NetworksHomeworkChatBot.git)
+Clone this [repo](doc:https://github.com/p4NC4keM0nk3y/NetworksHomeworkChatBot.git)   [https://github.com/p4NC4keM0nk3y/NetworksHomeworkChatBot.git]
 
 Install socket through terminal
 
